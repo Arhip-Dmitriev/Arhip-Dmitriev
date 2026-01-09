@@ -15,7 +15,7 @@ React, Next.js, Express, PostgreSQL, HTML/CSS
 
 Tools & Platforms:
 
-Git, Unity, Processor Design, Qiskit
+Git, Unity, Processor Design, Qiskit (Dynamics & Experiments), Stim, PyMatching
 
 
 Connect:
