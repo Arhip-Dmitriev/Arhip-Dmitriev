@@ -1,4 +1,4 @@
-I am an undergraduate student at the University of Maryland pursuing a dual B.S. in Computer Science (Quantum Info. Sci. Track) and Physics. I am passionate about the intersection of theoretical physics, applied computer science, and next-generation computation. My primary research interests include quantum algorithms, the quantum internet, and photonic qubit technology.
+I am an undergraduate student at the University of Maryland pursuing a degrees in Computer Science (Quantum Info. Sci. Track) and Physics. I am passionate about the intersection of theoretical physics, applied computer science, and next-generation computation. My primary research interests include quantum algorithms, the quantum internet, and photonic qubit technology.
 
 
 Skills:
