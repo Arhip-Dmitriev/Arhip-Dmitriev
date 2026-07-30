@@ -1,26 +1,41 @@
-I am an undergraduate student at the University of Maryland pursuing degrees in Computer Science (Quantum Info. Sci. Track) and Physics. I am passionate about the intersection of theoretical physics, applied computer science, and next-generation computation. My primary research interests include quantum algorithms, the quantum internet, and photonic qubit technology.
+# Arkhip Dmitriev
 
+Undergraduate at the University of Maryland, studying Computer Science (Quantum Information Science track) and Physics. I work on quantum algorithms and quantum simulation, and build production software for niche industry applications.
 
-Skills:
+**Currently:**
+- Undergraduate researcher at the FloQuET Lab (PI: Prof. Avik Dutt), deriving a low-cost error proxy for quantum-embedding simulation of large strongly correlated molecules.
+- Building [ArchytasZX](https://github.com/Arhip-Dmitriev/ArchytasZX), a symbolic rewriting engine for the qufinite ZX-calculus.
 
-Quantum Mechanics, Linear Algebra, Circuit Design
+---
 
-Languages:
+### Selected Work
 
-Python (Primary for Research/ML), Java, C, C++, JavaScript, TypeScript
+**[ArchytasZX](https://github.com/Arhip-Dmitriev/ArchytasZX)** — Python engine for quantum algorithm development via diagrammatic rewriting, with symbolic qudit dimension and system size. Exact symbolic algebra, a constraint-guarded subgraph matcher, and a certificate-emitting rewrite engine, all written from scratch. Qudit identities are proven valid for all dimensions and sizes by induction, then verified against exact numeric tensor contraction.
 
-Web/Full Stack:
+**Quantum embedding error proxy** — Using ML trained on HPC procured sample geometry and error data to learn about and predict the relation between fundamental molecular properties, embedding cut-offs, and the produced boundary error.
 
-React, Next.js, Express, PostgreSQL, HTML/CSS
+**Full-stack accounting and management platform** — Production system serving approximately one hundred employees at Beeline Group, built with PostgreSQL, Express, React, and Next.js, including audits of accounting calculation correctness and encrypted storage against several international compliance standards.
 
-Tools & Platforms:
+**Rare books collection database** — Web application digitizing a catalog of three hundred or more rare volumes, with search and filtering by title, author, date, and catalog identifier, built from requirements gathered with faculty and visiting researchers.
 
-Git, Unity, Processor Design, Qiskit (Dynamics & Experiments), Stim, PyMatching
+---
 
+### Stack
 
-Connect:
+**Research and scientific computing:** Python, Qiskit (Pulse, Dynamics, Experiments), Stim, PyMatching, PySCF, block2 (DMRG), RDKit, ASE/tblite, NumPy, SciPy, SymPy, Matplotlib, scikit-learn, XGBoost, GPyTorch, SISSO/PySR, SLURM, MKL/BLAS
 
-LinkedIn - in/arkhip-dmitriev-b9583b324
-Email - arkhipdmitriev@gmail.com
-Handshake -  app.joinhandshake.com/profiles/arkhip
-ForagerOne - foragerone.com/profile/340668
+**Systems and languages:** C, C++, Java, Assembly, Bash, MATLAB, Linux, Docker, Git, pytest, mypy
+
+**Web and data:** TypeScript, JavaScript, React, Next.js, Express, PostgreSQL, SQL, Pandas
+
+---
+
+### Interests
+
+Quantum algorithms and compilation, diagrammatic reasoning for quantum circuits, quantum simulation of correlated electronic structure, quantum networking, and photonic qubit hardware.
+
+---
+
+### Contact
+
+[Email](mailto:arkhipdmitriev@gmail.com) · [LinkedIn](https://linkedin.com/in/arkhip-dmitriev-b9583b324) · [Handshake](https://app.joinhandshake.com/profiles/arkhip) · [ForagerOne](https://foragerone.com/profile/340668)
