@@ -1,6 +1,6 @@
 # Arkhip Dmitriev
 
-Undergraduate at the University of Maryland, studying Computer Science (Quantum Information Science track) and Physics. I work on quantum algorithms and quantum simulation, and build production software for niche industry applications.
+Undergraduate at the University of Maryland, studying Computer Science (Quantum Information Science track) and Physics. I work on classical representation and simulation systems for quantum phenomena, and build production software for niche industry applications.
 
 **Currently:**
 - Undergraduate researcher at the [FloQuET Lab](https://floquet.umd.edu/) (PI: Prof. Avik Dutt), deriving a low-cost error proxy for quantum-embedding simulation of large strongly correlated molecules.
@@ -25,7 +25,7 @@ Undergraduate at the University of Maryland, studying Computer Science (Quantum 
 
 ### Stack
 
-**Research and scientific computing:** Python, Qiskit (Pulse, Dynamics, Experiments), Lean 4/Mathlib, ZXW-calculus, symbolic path sums, Stim, PyMatching, PySCF, block2 (DMRG), RDKit, ASE/tblite, NumPy, SciPy, SymPy, Matplotlib, scikit-learn, XGBoost, GPyTorch, SISSO/PySR, SLURM, MKL/BLAS
+**Research and scientific computing:** Python, Qiskit (Pulse, Dynamics, Experiments), Lean 4/Mathlib, ZXW-calculus, symbolic path sums, e-graphs (equality saturation), Stim, PyMatching, PySCF, block2 (DMRG), RDKit, ASE/tblite, NumPy, SciPy, SymPy, Matplotlib, scikit-learn, XGBoost, GPyTorch, SISSO/PySR, SLURM, MKL/BLAS
 
 **Systems and languages:** C, C++, Java, Assembly, Bash, MATLAB, Linux, Docker, Git, pytest, mypy
 
@@ -35,7 +35,7 @@ Undergraduate at the University of Maryland, studying Computer Science (Quantum 
 
 ### Interests
 
-Quantum algorithms and compilation, diagrammatic reasoning for quantum circuits, quantum simulation of correlated electronic structure, quantum networking, and photonic qubit hardware.
+Quantum algorithms and compilation, quantum state representation and its mechanization, quantum photonics, quantum networking.
 
 ---
 
